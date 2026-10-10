@@ -12,6 +12,12 @@ requires-python = ">=3.10"
 authors = [{ name = "Kaan Kuzu" }]
 dependencies = []
 
+[project.urls]
+Repository = "https://github.com/kaankuzu1/clip-virality-scorer"
+
+[project.scripts]
+clip-scorer = "clip_scorer.cli:main"
+
 [project.optional-dependencies]
 xgb = ["numpy>=1.24", "xgboost>=2.0", "joblib>=1.3", "scikit-learn>=1.3"]
 dev = ["pytest>=8", "ruff>=0.5"]
