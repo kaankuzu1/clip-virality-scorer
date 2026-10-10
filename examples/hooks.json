@@ -1,0 +1,23 @@
+{
+  "recording_duration_s": 7200,
+  "hooks": [
+    {
+      "start_s": 120, "end_s": 148, "virality_score": 78, "hook_type": "punchline",
+      "quote": "So I asked him why the server was down, and he said: it's not down, it's just thinking really hard about its life choices.",
+      "caption_suggestion": "He Did Not See That Coming"
+    },
+    {
+      "start_s": 900, "end_s": 905, "virality_score": 85, "hook_type": "reaction",
+      "quote": "no way"
+    },
+    {
+      "start_s": 2400, "end_s": 2470, "virality_score": 72, "hook_type": "reveal",
+      "quote": "After three weeks of testing, the cheapest setup beat every expensive one we tried, and the reason is not what you think. It all came down to one setting nobody touches.",
+      "caption_suggestion": "The $20 Setup That Won"
+    },
+    {
+      "start_s": 5100, "end_s": 5340, "virality_score": 74, "hook_type": "setup",
+      "quote": "Okay so before we start the next round, let me explain how the scoring works, because it changed this season and a lot of people are confused about it."
+    }
+  ]
+}
