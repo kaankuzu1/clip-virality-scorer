@@ -7,8 +7,8 @@
 Rank candidate short-form clips cut from long recordings (streams, podcasts,
 VODs) by how likely they are to perform on TikTok / Shorts / Reels.
 
-This is the scoring stage of [Audience Labs](https://audiencelabs.net), an
-AI pipeline that turns multi-hour livestreams into vertical clips, extracted
+This is the scoring stage of [Audience Labs](https://audiencelabs.net) (in
+private beta), an AI pipeline that turns multi-hour livestreams into vertical clips, extracted
 into a small standalone package with its own tests. The rest of the pipeline
 (transcription, diarization, LLM analysis, rendering) stays private.
 
